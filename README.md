@@ -24,3 +24,5 @@ use `python3 poly_fit.py fit --help` to check help
 ## Result
 
 The result will be a file named `result.png` in the project folder
+
+![image info](./result.png)
